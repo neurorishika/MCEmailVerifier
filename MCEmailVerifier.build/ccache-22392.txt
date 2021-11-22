@@ -1,0 +1,489 @@
+[2021-11-22T22:28:15.922193 6972 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) base_dir = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) compiler = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) compression = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) compression_level = 6
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) cpp_extension = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) debug = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) depend_mode = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) direct_mode = true
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) disable = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) hard_link = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) hash_dir = true
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:15.922193 6972 ] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) max_files = 0
+[2021-11-22T22:28:15.922193 6972 ] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) path = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) prefix_command = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) read_only = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) read_only_direct = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) recache = false
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) sloppiness = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) stats = true
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) temporary_dir = 
+[2021-11-22T22:28:15.922193 6972 ] Config: (default) umask = 
+[2021-11-22T22:28:15.923181 6972 ] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src __constants.c
+[2021-11-22T22:28:15.924177 6972 ] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:15.924177 6972 ] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:15.925174 6972 ] Source file: __constants.c
+[2021-11-22T22:28:15.925174 6972 ] Object file: __constants.o
+[2021-11-22T22:28:15.925174 6972 ] Trying direct lookup
+[2021-11-22T22:28:15.926173 6972 ] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/07891e7d894fa5551040627ea25f39-5235.manifest
+[2021-11-22T22:28:15.962075 17124] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:15.962075 17124] Config: (default) base_dir = 
+[2021-11-22T22:28:15.962075 17124] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:15.962075 17124] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:15.962075 17124] Config: (default) compiler = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:15.962075 17124] Config: (default) compression = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) compression_level = 6
+[2021-11-22T22:28:15.962075 17124] Config: (default) cpp_extension = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) debug = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) depend_mode = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) direct_mode = true
+[2021-11-22T22:28:15.962075 17124] Config: (default) disable = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) hard_link = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) hash_dir = true
+[2021-11-22T22:28:15.962075 17124] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:15.962075 17124] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:15.962075 17124] Config: (default) max_files = 0
+[2021-11-22T22:28:15.962075 17124] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:15.962075 17124] Config: (default) path = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) prefix_command = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) read_only = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) read_only_direct = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) recache = false
+[2021-11-22T22:28:15.962075 17124] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:15.962075 17124] Config: (default) sloppiness = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) stats = true
+[2021-11-22T22:28:15.962075 17124] Config: (default) temporary_dir = 
+[2021-11-22T22:28:15.962075 17124] Config: (default) umask = 
+[2021-11-22T22:28:15.962075 17124] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src __loader.c
+[2021-11-22T22:28:15.962075 17124] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:15.962075 17124] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:15.963074 17124] Source file: __loader.c
+[2021-11-22T22:28:15.963074 17124] Object file: __loader.o
+[2021-11-22T22:28:15.963074 17124] Trying direct lookup
+[2021-11-22T22:28:15.964071 17124] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/2/f5e90be07ec5ab287142487b5b9750-64802.manifest
+[2021-11-22T22:28:15.988020 11292] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:15.988020 11292] Config: (default) base_dir = 
+[2021-11-22T22:28:15.988020 11292] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:15.988020 11292] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:15.988020 11292] Config: (default) compiler = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:15.988020 11292] Config: (default) compression = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) compression_level = 6
+[2021-11-22T22:28:15.988020 11292] Config: (default) cpp_extension = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) debug = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) depend_mode = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) direct_mode = true
+[2021-11-22T22:28:15.988020 11292] Config: (default) disable = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) hard_link = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) hash_dir = true
+[2021-11-22T22:28:15.988020 11292] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:15.988020 11292] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:15.988020 11292] Config: (default) max_files = 0
+[2021-11-22T22:28:15.988020 11292] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:15.988020 11292] Config: (default) path = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) prefix_command = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) read_only = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) read_only_direct = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) recache = false
+[2021-11-22T22:28:15.988020 11292] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:15.988020 11292] Config: (default) sloppiness = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) stats = true
+[2021-11-22T22:28:15.988020 11292] Config: (default) temporary_dir = 
+[2021-11-22T22:28:15.988020 11292] Config: (default) umask = 
+[2021-11-22T22:28:15.988020 11292] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src module.__main__.c
+[2021-11-22T22:28:15.989003 11292] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:15.989003 11292] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:15.991000 11292] Source file: module.__main__.c
+[2021-11-22T22:28:15.991000 11292] Object file: module.__main__.o
+[2021-11-22T22:28:15.991000 11292] Trying direct lookup
+[2021-11-22T22:28:15.991996 11292] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/4/96963a6cbd0738e78db03ca78f79d4-96254.manifest
+[2021-11-22T22:28:15.991996 11292] No such manifest file
+[2021-11-22T22:28:15.991996 11292] Did not find object file hash in manifest
+[2021-11-22T22:28:15.996983 11292] Running preprocessor
+[2021-11-22T22:28:16.003963 17988] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.003963 17988] Config: (default) base_dir = 
+[2021-11-22T22:28:16.003963 17988] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.003963 17988] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.003963 17988] Config: (default) compiler = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.003963 17988] Config: (default) compression = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.003963 17988] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) debug = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.003963 17988] Config: (default) disable = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) hard_link = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.003963 17988] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.003963 17988] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.003963 17988] Config: (default) max_files = 0
+[2021-11-22T22:28:16.003963 17988] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.003963 17988] Config: (default) path = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) read_only = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) recache = false
+[2021-11-22T22:28:16.003963 17988] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.003963 17988] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) stats = true
+[2021-11-22T22:28:16.003963 17988] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.003963 17988] Config: (default) umask = 
+[2021-11-22T22:28:16.003963 17988] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src __helpers.c
+[2021-11-22T22:28:16.003963 17988] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.004960 17988] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.005958 17988] Source file: __helpers.c
+[2021-11-22T22:28:16.005958 17988] Object file: __helpers.o
+[2021-11-22T22:28:16.005958 17988] Trying direct lookup
+[2021-11-22T22:28:16.006955 17988] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/6/1ecc1436d897c85fe272c9c1138d2e-1073.manifest
+[2021-11-22T22:28:16.076770 17124] Got object file hash from manifest
+[2021-11-22T22:28:16.078769 17124] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/56b9dfb27423bc07208abe75d33202-460665.o to __loader.o (uncompressed)
+[2021-11-22T22:28:16.078769 17124] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/56b9dfb27423bc07208abe75d33202-460665.o -> __loader.o
+[2021-11-22T22:28:16.079761 17124] Succeeded getting cached result
+[2021-11-22T22:28:16.079761 17124] Result: cache hit (direct)
+[2021-11-22T22:28:16.079761 17124] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-11-22T22:28:16.082753 17124] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-11-22T22:28:16.278230 6972 ] Got object file hash from manifest
+[2021-11-22T22:28:16.279229 6972 ] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/0c698cb841ab9edee6effb7f790412-2966087.o to __constants.o (uncompressed)
+[2021-11-22T22:28:16.279229 6972 ] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/0c698cb841ab9edee6effb7f790412-2966087.o -> __constants.o
+[2021-11-22T22:28:16.280226 6972 ] Succeeded getting cached result
+[2021-11-22T22:28:16.280226 6972 ] Result: cache hit (direct)
+[2021-11-22T22:28:16.280226 6972 ] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-11-22T22:28:16.309148 6972 ] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-11-22T22:28:16.341062 3260 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) base_dir = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) compiler = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) compression = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) debug = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) disable = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) hard_link = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.341062 3260 ] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) max_files = 0
+[2021-11-22T22:28:16.341062 3260 ] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) path = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) read_only = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) recache = false
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) stats = true
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.341062 3260 ] Config: (default) umask = 
+[2021-11-22T22:28:16.343057 3260 ] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\MainProgram.c
+[2021-11-22T22:28:16.343057 3260 ] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.343057 3260 ] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.344055 3260 ] Source file: static_src\MainProgram.c
+[2021-11-22T22:28:16.344055 3260 ] Object file: static_src\MainProgram.o
+[2021-11-22T22:28:16.344055 3260 ] Trying direct lookup
+[2021-11-22T22:28:16.344055 3260 ] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/9daa4cdfd7cf9ffb15bfab5e9ec970-29217.manifest
+[2021-11-22T22:28:16.463734 17988] Got object file hash from manifest
+[2021-11-22T22:28:16.464731 17988] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/7b762d8de853e8b590ee4ad947abf9-2963474.o to __helpers.o (uncompressed)
+[2021-11-22T22:28:16.464731 17988] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/7b762d8de853e8b590ee4ad947abf9-2963474.o -> __helpers.o
+[2021-11-22T22:28:16.465729 17988] Succeeded getting cached result
+[2021-11-22T22:28:16.465729 17988] Result: cache hit (direct)
+[2021-11-22T22:28:16.465729 17988] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-11-22T22:28:16.468729 17988] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-11-22T22:28:16.475702 13276] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.475702 13276] Config: (default) base_dir = 
+[2021-11-22T22:28:16.475702 13276] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.475702 13276] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.475702 13276] Config: (default) compiler = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.475702 13276] Config: (default) compression = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.475702 13276] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) debug = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.475702 13276] Config: (default) disable = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) hard_link = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.475702 13276] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.475702 13276] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.475702 13276] Config: (default) max_files = 0
+[2021-11-22T22:28:16.475702 13276] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.475702 13276] Config: (default) path = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) read_only = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) recache = false
+[2021-11-22T22:28:16.475702 13276] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.475702 13276] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) stats = true
+[2021-11-22T22:28:16.475702 13276] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.475702 13276] Config: (default) umask = 
+[2021-11-22T22:28:16.476700 13276] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-11-22T22:28:16.476700 13276] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.476700 13276] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.477698 13276] Source file: static_src\CompiledCellType.c
+[2021-11-22T22:28:16.477698 13276] Object file: static_src\CompiledCellType.o
+[2021-11-22T22:28:16.477698 13276] Trying direct lookup
+[2021-11-22T22:28:16.477698 13276] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/b/6c73d7019c7f6a413e4562f703a764-7995.manifest
+[2021-11-22T22:28:16.584412 3260 ] Got object file hash from manifest
+[2021-11-22T22:28:16.585409 3260 ] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/8/f7fb60a544e382c56658a9060904a9-4145160.o to static_src\MainProgram.o (uncompressed)
+[2021-11-22T22:28:16.585409 3260 ] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/8/f7fb60a544e382c56658a9060904a9-4145160.o -> static_src\MainProgram.o
+[2021-11-22T22:28:16.586406 3260 ] Succeeded getting cached result
+[2021-11-22T22:28:16.586406 3260 ] Result: cache hit (direct)
+[2021-11-22T22:28:16.586406 3260 ] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-11-22T22:28:16.588401 3260 ] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-11-22T22:28:16.636274 13276] Got object file hash from manifest
+[2021-11-22T22:28:16.637271 13276] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/5/102125a1cb499afc4ce0bcdde5f75d-2969568.o to static_src\CompiledCellType.o (uncompressed)
+[2021-11-22T22:28:16.637271 13276] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/5/102125a1cb499afc4ce0bcdde5f75d-2969568.o -> static_src\CompiledCellType.o
+[2021-11-22T22:28:16.638267 13276] Succeeded getting cached result
+[2021-11-22T22:28:16.638267 13276] Result: cache hit (direct)
+[2021-11-22T22:28:16.638267 13276] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-11-22T22:28:16.772906 7640 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) base_dir = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) compiler = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) compression = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) debug = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) disable = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) hard_link = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.772906 7640 ] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) max_files = 0
+[2021-11-22T22:28:16.772906 7640 ] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) path = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) read_only = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) recache = false
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) stats = true
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.772906 7640 ] Config: (default) umask = 
+[2021-11-22T22:28:16.773904 7640 ] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-11-22T22:28:16.773904 7640 ] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.773904 7640 ] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.774901 7640 ] Source file: static_src\CompiledFunctionType.c
+[2021-11-22T22:28:16.774901 7640 ] Object file: static_src\CompiledFunctionType.o
+[2021-11-22T22:28:16.774901 7640 ] Trying direct lookup
+[2021-11-22T22:28:16.774901 7640 ] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/9/a406341625770290a358e6cc97b033-90513.manifest
+[2021-11-22T22:28:16.808813 13276] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-11-22T22:28:16.810808 15760] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.810808 15760] Config: (default) base_dir = 
+[2021-11-22T22:28:16.810808 15760] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.810808 15760] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.810808 15760] Config: (default) compiler = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.810808 15760] Config: (default) compression = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.810808 15760] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) debug = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.810808 15760] Config: (default) disable = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) hard_link = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.810808 15760] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.810808 15760] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.810808 15760] Config: (default) max_files = 0
+[2021-11-22T22:28:16.810808 15760] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.810808 15760] Config: (default) path = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) read_only = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) recache = false
+[2021-11-22T22:28:16.810808 15760] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.810808 15760] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) stats = true
+[2021-11-22T22:28:16.810808 15760] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.810808 15760] Config: (default) umask = 
+[2021-11-22T22:28:16.811802 15760] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-11-22T22:28:16.811802 15760] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.811802 15760] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.812802 15760] Source file: static_src\CompiledGeneratorType.c
+[2021-11-22T22:28:16.812802 15760] Object file: static_src\CompiledGeneratorType.o
+[2021-11-22T22:28:16.812802 15760] Trying direct lookup
+[2021-11-22T22:28:16.813799 15760] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/820befd29c5429ea177a88bdb93b4c-56580.manifest
+[2021-11-22T22:28:16.985339 22188] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:16.985339 22188] Config: (default) base_dir = 
+[2021-11-22T22:28:16.985339 22188] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:16.985339 22188] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:16.985339 22188] Config: (default) compiler = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:16.985339 22188] Config: (default) compression = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) compression_level = 6
+[2021-11-22T22:28:16.985339 22188] Config: (default) cpp_extension = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) debug = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) depend_mode = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) direct_mode = true
+[2021-11-22T22:28:16.985339 22188] Config: (default) disable = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) hard_link = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) hash_dir = true
+[2021-11-22T22:28:16.985339 22188] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:16.985339 22188] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:16.985339 22188] Config: (default) max_files = 0
+[2021-11-22T22:28:16.985339 22188] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:16.985339 22188] Config: (default) path = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) prefix_command = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) read_only = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) read_only_direct = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) recache = false
+[2021-11-22T22:28:16.985339 22188] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:16.985339 22188] Config: (default) sloppiness = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) stats = true
+[2021-11-22T22:28:16.985339 22188] Config: (default) temporary_dir = 
+[2021-11-22T22:28:16.985339 22188] Config: (default) umask = 
+[2021-11-22T22:28:16.986336 22188] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-11-22T22:28:16.986336 22188] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:16.986336 22188] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:16.987333 22188] Source file: static_src\InspectPatcher.c
+[2021-11-22T22:28:16.987333 22188] Object file: static_src\InspectPatcher.o
+[2021-11-22T22:28:16.987333 22188] Trying direct lookup
+[2021-11-22T22:28:16.987333 22188] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/573e0972629f80aedc68e00dd1af2c-14433.manifest
+[2021-11-22T22:28:17.022240 15760] Got object file hash from manifest
+[2021-11-22T22:28:17.023238 15760] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/2/09047be53bcbae030c0ec69ff626e4-3162585.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-11-22T22:28:17.024236 15760] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/2/09047be53bcbae030c0ec69ff626e4-3162585.o -> static_src\CompiledGeneratorType.o
+[2021-11-22T22:28:17.024236 15760] Succeeded getting cached result
+[2021-11-22T22:28:17.024236 15760] Result: cache hit (direct)
+[2021-11-22T22:28:17.024236 15760] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-11-22T22:28:17.026230 15760] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-11-22T22:28:17.035205 7640 ] Got object file hash from manifest
+[2021-11-22T22:28:17.036202 7640 ] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/1b6ba70a2222559bd3264cc6a6097c-6438130.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-11-22T22:28:17.038197 7640 ] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/1b6ba70a2222559bd3264cc6a6097c-6438130.o -> static_src\CompiledFunctionType.o
+[2021-11-22T22:28:17.038197 7640 ] Succeeded getting cached result
+[2021-11-22T22:28:17.038197 7640 ] Result: cache hit (direct)
+[2021-11-22T22:28:17.038197 7640 ] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-11-22T22:28:17.055153 7640 ] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-11-22T22:28:17.164863 11772] === CCACHE 3.7.12 STARTED =========================================
+[2021-11-22T22:28:17.164863 11772] Config: (default) base_dir = 
+[2021-11-22T22:28:17.164863 11772] Config: (environment) cache_dir = C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-11-22T22:28:17.164863 11772] Config: (default) cache_dir_levels = 2
+[2021-11-22T22:28:17.164863 11772] Config: (default) compiler = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) compiler_check = mtime
+[2021-11-22T22:28:17.164863 11772] Config: (default) compression = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) compression_level = 6
+[2021-11-22T22:28:17.164863 11772] Config: (default) cpp_extension = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) debug = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) depend_mode = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) direct_mode = true
+[2021-11-22T22:28:17.164863 11772] Config: (default) disable = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) extra_files_to_hash = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) hard_link = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) hash_dir = true
+[2021-11-22T22:28:17.164863 11772] Config: (default) ignore_headers_in_manifest = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) keep_comments_cpp = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) limit_multiple = 0.8
+[2021-11-22T22:28:17.164863 11772] Config: (environment) log_file = C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build\ccache-22392.txt
+[2021-11-22T22:28:17.164863 11772] Config: (default) max_files = 0
+[2021-11-22T22:28:17.164863 11772] Config: (C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-11-22T22:28:17.164863 11772] Config: (default) path = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) pch_external_checksum = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) prefix_command = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) prefix_command_cpp = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) read_only = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) read_only_direct = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) recache = false
+[2021-11-22T22:28:17.164863 11772] Config: (default) run_second_cpp = true
+[2021-11-22T22:28:17.164863 11772] Config: (default) sloppiness = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) stats = true
+[2021-11-22T22:28:17.164863 11772] Config: (default) temporary_dir = 
+[2021-11-22T22:28:17.164863 11772] Config: (default) umask = 
+[2021-11-22T22:28:17.165859 11772] Command line: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\sapta\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=165 -D_NUITKA_EXE -ID:\ProgramData\Anaconda3\include -I. -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\include -ID:\ProgramData\Anaconda3\lib\site-packages\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-11-22T22:28:17.165859 11772] Hostname: DESKTOP-F5BICAL
+[2021-11-22T22:28:17.165859 11772] Working directory: C:\Users\sapta\Downloads\TMCverifier\MCEmailVerifier.build
+[2021-11-22T22:28:17.166855 11772] Source file: static_src\MetaPathBasedLoader.c
+[2021-11-22T22:28:17.166855 11772] Object file: static_src\MetaPathBasedLoader.o
+[2021-11-22T22:28:17.166855 11772] Trying direct lookup
+[2021-11-22T22:28:17.167858 11772] Looking for object file hash in C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/ecbc8cc0d41457e99d0a2e9f6184a3-54224.manifest
+[2021-11-22T22:28:17.198768 22188] Got object file hash from manifest
+[2021-11-22T22:28:17.199765 22188] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/d/f15db1e962a2565a777ff83525c20d-2975283.o to static_src\InspectPatcher.o (uncompressed)
+[2021-11-22T22:28:17.208744 22188] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/d/f15db1e962a2565a777ff83525c20d-2975283.o -> static_src\InspectPatcher.o
+[2021-11-22T22:28:17.209739 22188] Succeeded getting cached result
+[2021-11-22T22:28:17.209739 22188] Result: cache hit (direct)
+[2021-11-22T22:28:17.209739 22188] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-11-22T22:28:17.211734 22188] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-11-22T22:28:17.338395 11772] Got object file hash from manifest
+[2021-11-22T22:28:17.339394 11772] Copying C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/a/204ac15c226b7e1085ee5e15c4f683-2996277.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-11-22T22:28:17.339394 11772] Created from cache: C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/a/204ac15c226b7e1085ee5e15c4f683-2996277.o -> static_src\MetaPathBasedLoader.o
+[2021-11-22T22:28:17.339394 11772] Succeeded getting cached result
+[2021-11-22T22:28:17.340391 11772] Result: cache hit (direct)
+[2021-11-22T22:28:17.340391 11772] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-11-22T22:28:17.341387 11772] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-11-22T22:28:17.421175 11292] Got object file hash from preprocessor
+[2021-11-22T22:28:17.421175 11292] Object file C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o not in cache
+[2021-11-22T22:28:17.421175 11292] Running real compiler
+[2021-11-22T22:28:19.065196 11292] Unlink C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o.tmp.stdout.DESKTOP-F5BICAL.11292.1QBI6D
+[2021-11-22T22:28:19.065196 11292] Unlink C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o.tmp.stderr.DESKTOP-F5BICAL.11292.SS92c3
+[2021-11-22T22:28:19.066191 11292] Copying module.__main__.o to C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o via C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o.DESKTOP-F5BICAL.11292.1Apgjk (uncompressed)
+[2021-11-22T22:28:19.067214 11292] Stored in cache: module.__main__.o -> C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/9b406e4bc7bd00f340e9b58d7cba4b-3058119.o (copied)
+[2021-11-22T22:28:19.114436 11292] Added object file hash to C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/4/96963a6cbd0738e78db03ca78f79d4-96254.manifest
+[2021-11-22T22:28:19.115314 11292] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-11-22T22:28:19.117160 11292] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-11-22T22:28:19.118160 11292] Result: cache miss
+[2021-11-22T22:28:19.119157 11292] Acquired lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-11-22T22:28:19.120155 11292] Releasing lock C:\Users\sapta\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
