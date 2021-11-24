@@ -1,3 +1,4 @@
+import os
 import random
 import string
 import smtplib
@@ -6,6 +7,24 @@ from email.mime.text import MIMEText
 from datetime import datetime
 
 if __name__ == "__main__":
+
+    if not os.path.exists("passwordcache"):
+        pcache = input("(One-Time Question) Do you want to save the password (y/n)? ")
+        if pcache.strip().lower() == "y":
+            password = input("Enter password: ")
+            with open("passwordcache", "w") as f:
+                f.write(password)
+        else:
+            with open("passwordcache", "w") as f:
+                f.write("null")
+
+    with open("passwordcache", "r") as f:
+        password = f.read()
+        if password == "null":
+            sender_pass = input("Enter password: ")
+        else:
+            sender_pass = password
+
     receiver_address = input("Enter receiver's email address: ")
     OTP = ''.join(random.SystemRandom().choice(string.ascii_uppercase + string.digits) for _ in range(6))
     print(f"OTP: {OTP}")
@@ -32,7 +51,6 @@ if __name__ == "__main__":
     #mail_content = f'Hello!\nThank you for verifying with The Mythos Conservatory. Please enter the following code into your ticket channel for verification.\n{OTP}\n\nThanks,\nThe Mythos Conservatory Team'
 
     sender_address = 'themythosconservatory@gmail.com'
-    sender_pass = '!Q2w#E4r%T6y'
 
     message = MIMEMultipart()
     message['From'] = sender_address
